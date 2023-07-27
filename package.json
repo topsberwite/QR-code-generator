@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.8",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr-code",
+  "version": "1.0.0",
+  "description": "QR code generator",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kristoffer Aguzar",
+  "license": "ISC"
+}
